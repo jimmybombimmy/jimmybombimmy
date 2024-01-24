@@ -2,9 +2,9 @@
 
 <p>My name is James, but most people call me Jim so I don't get mistaken for four other people.</p>
 
-<p>Over a year ago, I took the plunge into full-stack web development and have loved it ever since. I never thought it would be possible to find something that I held so much <s>addiction</s> passion for, but here I am!</p>
+<p>Over a year ago, I took the plunge into full-stack web development and have loved it ever since. I never thought it would be possible to find something that I held so much <s>addiction</s> passion for, but here I am! </p>
+<p>I am currently on the lookout for my first role as a developer and would like to work at a place that will give me mentorship to grow, and allow me to hit the ground running to make a strong impact! 💪</p>
 
-<p>Javascript is my life now. 😎</p> 
 
 <p> - 🔭 I’m currently working on: <a href="https://github.com/jimmybombimmy/joel-wilson-english">Joel Wilson English</a></p>
 <p> - 🌱 I’m currently learning: <strong>Advanced React</strong> and <strong>Typescript</strong></p>
